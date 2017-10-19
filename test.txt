@@ -1,2 +1,5 @@
 pierwsze zajęcia z oprogramowaniem git
 
+zmiana
+zmiana 2
+oj tam oj tam
